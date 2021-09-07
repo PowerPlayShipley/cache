@@ -1,9 +1,19 @@
 version: 0.1
-
 players:
   - name: Harry
     id: 52f84c525d33
-
+  - name: Ste
+    id: DlODmGbRfb9VyRzaUVejh
+  - name: TAK
+    id: L3WqaY2fkRVQcEp9Sacar
+  - name: KP
+    id: mGGEW6OQXFCz1uEY5GR6i
+  - name: Greg
+    id: KwzUskbrDdhos_U8sxiAB
+  - name: Giles
+    id: Nn7xGMw9qq5EpdKLxort-
+  - name: Ade
+    id: 0smCBboRv1xSx9RvqmB-d
 fines:
   hang:
     name: Hanging
@@ -17,7 +27,6 @@ fines:
   lily:
     name: Lily
     fine: 5
-
 meta:
   triple:
     fine:
