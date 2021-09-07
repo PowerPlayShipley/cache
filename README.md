@@ -1,6 +1,6 @@
-# PowerPlayShipley Fines Cache
+# PowerPlayShipley PPS Cache
 
-This is the cache/store for the fines system. To save time, and keep a history things will
+This is the cache/store for the [pps](https://github.com/PowerPlayShipley/pps) system. To save time, and keep a history things will
 be saved with git using a mix of JSON and YAML
 
 ## Format
