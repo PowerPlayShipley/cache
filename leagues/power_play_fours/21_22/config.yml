@@ -1,0 +1,26 @@
+version: 0.1
+
+players:
+  - Harry
+  - Ste
+  - TAF
+  - Lee
+
+fines:
+  hang:
+    name: Hanging
+    fine: 0.5
+  diag:
+    name: Diagonal Hanging
+    fine: 0.5
+  gutter:
+    name: Gutter Ball
+    fine: 1
+  lily:
+    name: Lily
+    fine: 5
+
+meta:
+  triple:
+    fine:
+      lt: 5
