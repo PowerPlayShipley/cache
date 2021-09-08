@@ -30,6 +30,9 @@ fines:
   u5LZ7xVmpy_NpSU8aACex:
     name: Demo
     fine: 100
+  ONxgZTzKo7No2qOQRDwB8:
+    name: '10'
+    fine: 20
 meta:
   triple:
     fine:
